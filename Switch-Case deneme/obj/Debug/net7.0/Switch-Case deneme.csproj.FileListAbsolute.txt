@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.AssemblyInfo.cs
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Switch-Case deneme\bin\Debug\net7.0\Switch-Case deneme.exe
+C:\Users\HP\Desktop\Switch-Case deneme\bin\Debug\net7.0\Switch-Case deneme.deps.json
+C:\Users\HP\Desktop\Switch-Case deneme\bin\Debug\net7.0\Switch-Case deneme.runtimeconfig.json
+C:\Users\HP\Desktop\Switch-Case deneme\bin\Debug\net7.0\Switch-Case deneme.dll
+C:\Users\HP\Desktop\Switch-Case deneme\bin\Debug\net7.0\Switch-Case deneme.pdb
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.dll
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\refint\Switch-Case deneme.dll
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.pdb
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\Switch-Case deneme.genruntimeconfig.cache
+C:\Users\HP\Desktop\Switch-Case deneme\obj\Debug\net7.0\ref\Switch-Case deneme.dll
